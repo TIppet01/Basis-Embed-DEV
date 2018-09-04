@@ -291,7 +291,7 @@ header.active .nav-list-container {
   border: none;
 }
 .navbar-basis span {
-  color: #f44336 !important;
+  color: #ffffff!important;
 }
 .navbar-basis img {
     max-width: 70px !important;
@@ -355,8 +355,8 @@ text-align: right;
 float:right;
 }
 #searchomb p {
-    font-size: 14px;
-    color: #666;
+    font-size: 54px;
+    color: #ffffff;
     font-family: 'Open Sans',sans-serif !important;
     font-weight: 400;
     line-height: 1.5;
