@@ -584,7 +584,7 @@ padding:10px;
     border-top: 3px solid #33a3f1 !important;
 }
 .navbar-nav > li > a.departments:before {
-  background: #d9b00b;
+  background: #ffffff;
 }
 .navbar-nav li.drop ul.departmentsDrop {
     border-top: 3px solid #d9b00b !important;
